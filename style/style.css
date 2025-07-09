@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+   
+
+}
+
+.container{
+    max-width: 1320px;
+    height: 600px;
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
+    url("../images/Banner Image.png");
+    border-radius: 16px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+}
+
+.new-year{
+    text-align: center;
+    padding: 177px 344px;
+}
+
+.new-year p{
+    font-size: 32px;
+    color: #FFFFFF;
+    font-weight: lighter;
+}
+.new-year h1{
+    font-size: 72px;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+/* banner */
+
+.banner{
+    max-width: 803px;
+    height: 806px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.offer{
+    color: #FF0000;
+    max-width: 383px;
+    height: 107px;
+    font-size: 88px;
+    font-weight: bold;
+    margin: 50px auto;
+}
+
+.offer-complement{
+    font-size: 24px;
+    color: #FF0000;
+}
+.offer-all{
+    font-size: 48px;
+    color: #070211;
+}
+.offer-description{
+    margin-bottom: 48px;
+}
+
+
+/* midnight-party */
+
+.midnight-party{
+    max-width: 1320px;
+    height: 600px;
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
+    url("../images/Vectorrr.png");
+    border-radius: 16px;
+    position: relative;
+    margin: 50px auto;
+    display: flex;
+    align-items: center;
+    gap: 90px;
+    justify-content: center;
+}
+
+.midnight-title{
+    color: white;
+    font-size: 45px;
+    padding: 126px 39px 24px 350px;
+}
+
+.midnight-description{
+    color: white;
+    font-size: 18px;
+    opacity: 80%;
+     padding: 0px 94px 32px 350px
+   
+}
+
+.btn-join{
+   
+  padding: 15px 600px 142px 258px;
+}
+
+.btn-text{
+    width: 110px;
+    height: 24px;
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+    border: none;
+    cursor: pointer;
+    margin-left: 100px;
+}
+
+
+.img-2024{
+    padding: 68px 278px 167px 0px;
+    width: 319px;
+    height: 464px;
+    margin-right: 138px;
+}
+
+/* box style */
+
+.box{
+
+    max-width: 1320px;
+    height: 450px;
+    text-align: center;
+    background-image: linear-gradient(180deg, #e4bcbc 0%, #e269b4 100%);
+    border-radius: 16px;
+    margin: 0 auto;
+
+
+}
+
+.box-text{
+    padding: 160px 386px 48px 385px;
+}
+
+.btn-2{
+   padding: 16px 32px; 
+   font-size: 20px;
+   color: white;
+   font-weight: bold;
+   background-color: #FF0000;
+   border-radius: 8px;
+} 
